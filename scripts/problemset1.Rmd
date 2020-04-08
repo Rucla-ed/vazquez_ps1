@@ -6,11 +6,13 @@ output: pdf_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+Grade: 20/20
+Good job!
 
 # Overview
 Learning how to use git and GitHub can be intimidating. Problem sets this quarter will give you the opportunity to practice using git and GitHub both individually and in groups. In this problem set we are asking you to create a folder and file using your command line interface (Git Bash or terminal). These files you create on your local computer will later be pushed into a remote repository you create. These exercises will give you practice with the git/GitHub workflow (e.g. changing directories, creating files, staging those files, committing, and pushing to GitHub). Lastly, you will practice creating issues on our **rclass2** repository. We will be using the **issues** page in the **rclass** repository to ask questions.    
 
-# Part I: Command line & R practice  
+# Part I: Command line & R practice (7/7) 
 
 1. Using your command line interface (CLI) (e.g. Git Bash, terminal), create a new folder called **scripts**. Change directories to where you want to save this folder. Be intentional about where you create this folder (hint: change directories first). Write the commands you used here (to change directories and create the folder):  
 
@@ -41,7 +43,7 @@ touch problemset1.R
 - Filter the `mpg` dataframe to include only Ford Mustang's that were built after the year 2000
 
 
-# Part II: GitHub  
+# Part II: GitHub (10/10)  
 
 1. Log in to your GitHub account online and create a new private repository here: https://github.com/organizations/Rucla-ed/repositories/new 
 
@@ -133,7 +135,7 @@ git push
 
 
 
-# Part III: GitHub issues  
+# Part III: GitHub issues (3/3) 
 
 1. Navigate to the issues tab for the **rclass2** repository here: https://github.com/Rucla-ed/rclass2/issues
 
